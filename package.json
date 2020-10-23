@@ -1,0 +1,18 @@
+{
+  "name": "pigpen-react-ssr-loader",
+  "version": "1.0.0",
+  "description": "pigpen-koa使用的react服务端渲染webpack loader，源于easy-team/react-entry-template-loader，按个人喜好做了细微调整，解除对easy-webpack的依赖。",
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/xiek881028/pigpen-react-ssr-loader",
+  "author": "xk285985285@qq.com",
+  "license": "MIT"
+}
